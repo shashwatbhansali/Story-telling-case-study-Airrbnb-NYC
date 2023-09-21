@@ -29,18 +29,6 @@ Head of Acquisitions and Operations, NYC: This head looks after all the property
 Head of User Experience, NYC: The head of user experience looks after the customer preferences and also handles the properties listed on the website and the Airbnb app. Basically, the head of user experience tries to optimise the order of property listing in certain neighbourhoods and cities in order to get every property the optimal amount of traction.
  
 
-Data
-Download the dataset given below. This dataset contains information about different Airbnb listings along with their hosts, locations, prices and other attributes.
+ 
 
-New York Airbnbs Dataset
-Download
-The columns in the dataset are self-explanatory. You can refer to the diagram given below to get a better idea of what each column signifies.
 
-Note: The price column contains the price/night.
-
-Dataset Description
-Dataset Description
-You can classify the variables into different types – categorical, numeric, location and time. It is important to understand which plot needs to be used for plotting each variable. You can refer to the variable categories by looking at the diagram given below.
-
-Variable Categories
-Variable Categories
